@@ -83,3 +83,9 @@ Thank you for interest in our work. If our paper or code is useful to you, kindl
 
 
 ```
+
+Developers:   
+* [Sai Shubodh Puligilla](https://www.shubodhs.ai/)   
+* [Mohammad Omama](https://mohdomama.github.io/)   
+* [Husain Zaidi](https://husainhz7.github.io/)   
+* [Udit Singh Parihar](https://udit.netlify.app/)   
