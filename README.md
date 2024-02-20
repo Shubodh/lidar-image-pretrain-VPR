@@ -2,7 +2,7 @@
 
 ### Paper's Crisp Summary: What is the deal?
 
-The original [CLIP](https://openai.com/research/clip) was for the domains of image and language, here we apply the same idea to the domains of LiDAR and image, specifically for the task of cross modal place recognition. [Here is the link](https://shubodhs.ai/liploc) to our paper.
+The original [CLIP](https://openai.com/research/clip) was for the domains of image and language, here we apply the same idea to the domains of LiDAR and image, specifically for the task of cross modal place recognition. [Here is the link](https://www.shubodhs.ai/liploc) to our paper.
 
 ### Code's Crisp Summary: How this code could be used?
 The code is written well in a modular way so that this can be used for many applications beyond the scope of the paper.
