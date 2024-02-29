@@ -21,10 +21,9 @@ Misc packages:
 * pyyaml, pillow, h5py, scikit-image, scikit-learn
 
 
-It's preferable to directly install as per the main list of packages provided above. Create a conda environment, install the above packages and activate the environment, then run the commands in "Code" section below.
+You can directly install above or using the provided `requirements.txt` file using `pip install -r requirements.txt`. However, for PyTorch and torchvision, please install them according to specific CUDA version directly from https://pytorch.org. These lines have been commented out in `requirements.txt`.
 
-You can also refer to environment.yml in case to know more about specific versions.
-
+After installation of the above packages, activate the environment, then run the commands in "Code" section below.
 
 ## Dataset
 ### KITTI-360:
