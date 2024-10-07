@@ -73,13 +73,12 @@ https://drive.google.com/drive/folders/1kpWmchrC8LYXORL8N30xRQprP8AxjHSB?usp=dri
 Thank you for interest in our work. If our paper or code is useful to you, kindly cite it as:
 
 ```
-@InProceedings{Shubodh_2024_WACV,
-    author    = {Shubodh, Sai and Omama, Mohammad and Zaidi, Husain and Parihar, Udit Singh and Krishna, Madhava},
-    title     = {LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization},
-    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
-    month     = {January},
-    year      = {2024},
-    pages     = {948-957}
+@inproceedings{shubodh2024lip,
+  title={Lip-loc: Lidar image pretraining for cross-modal localization},
+  author={Shubodh, Sai and Omama, Mohammad and Zaidi, Husain and Parihar, Udit Singh and Krishna, Madhava},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={948--957},
+  year={2024}
 }
 
 ```
