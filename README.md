@@ -80,7 +80,7 @@ Thank you for interest in our work. If our paper or code is useful to you, kindl
     month     = {January},
     year      = {2024},
     pages     = {948-957}
-
+}
 
 ```
 
